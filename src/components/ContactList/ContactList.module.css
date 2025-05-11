@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .item {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 12px;
+  }
+  

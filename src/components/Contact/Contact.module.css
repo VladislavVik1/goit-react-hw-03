@@ -1,0 +1,26 @@
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .name {
+    font-weight: 600;
+    margin: 0;
+  }
+  
+  .number {
+    margin: 4px 0 0 0;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .button {
+    padding: 6px 12px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
